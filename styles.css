@@ -201,6 +201,10 @@ button:hover{
         gap: 0.5rem;
     }
 
+    .store-locator-label{
+    padding: 10px 0px;
+    }
+
     .store-card {
         padding: 1rem;
         font-size: 14px;
